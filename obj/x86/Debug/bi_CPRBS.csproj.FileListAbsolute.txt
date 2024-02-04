@@ -1,0 +1,569 @@
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_View.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+G:\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+G:\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+G:\bi_CPRBS\bi_CPRBS\bin\Debug\MySql.Data.dll
+G:\bi_CPRBS\bi_CPRBS\bin\Debug\MySqlBackup.dll
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_View.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+G:\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_View.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\ito gingawa mo\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\bin\Debug\MySql.Data.dll
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\bin\Debug\MySqlBackup.dll
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_View.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\THESIS NILA KIM\bi_CPRBS\bi_CPRBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+C:\Users\MegaDeath\Desktop\bi_CPRBS\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ViewPatient.resources
+C:\Users\ACER PDC\Contacts\Desktop\bi_CPRBSz1\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ViewPatient.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\CPRBS_FINAL OUTPUT\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_FinalRecords.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ViewPatient.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_SystemGeneralRecords.resources
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\BI Project 01\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registry.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_FinalRecords.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registration.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Medicalhistory.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registry.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Update.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ViewPatient.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_SystemGeneralRecords.resources
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\ACER PDC\Contacts\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Consultation.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Discharge.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_FinalRecords.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_HospitalMgnt.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Maintenance.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Admission.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Forgot.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Login.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Main.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Patient.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_PatientInformation.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Prompt.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Query.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Registry.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_Settings.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_AdmissionBilling.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ConsultationBilling.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_ViewPatient.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.bi_SystemGeneralRecords.resources
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+D:\ \CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\Ace\Desktop\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+G:\KIM FILES\CPRBS - FINAL SYSTEM\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\THE PILOT\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\THE PILOT\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+D:\GENUZ FILES\THESIS & SYSTEMS\add to sytem c#\THESIS\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientMgnt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientMgnt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientInformation.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientInformation.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientMgnt.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+D:\GENUZ™ FILES\THESIS\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientInformation.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientMgnt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe.config
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.PatientMgnt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\Acer\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Body.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe.config
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Body.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+C:\Users\GENUZ\Desktop\SYSTEM FINAL2w\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Registration.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe.config
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.application
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySqlBackup.dll
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Body.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Registration.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+C:\Users\Acer\Desktop\Desktop Files\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe.config
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.pdb
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe.manifest
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.application
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.exe
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySql.Data.dll
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\MySqlBackup.dll
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csprojResolveAssemblyReference.cache
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Billing.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.gSettings.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.HospitalMgnt.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Maintenance.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Forgot.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Login.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Main.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Patient.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Body.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Prompt.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Registration.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Settings.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.Properties.Resources.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SplashScreen.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.SystemGeneralRecords.resources
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.csproj.GenerateResource.Cache
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.exe.manifest
+F:\SYSTEM FINAL2\bi_CPRBS\obj\x86\Debug\bi_CPRBS.application
+F:\SYSTEM FINAL2\bi_CPRBS\bin\Debug\bi_CPRBS.pdb
